@@ -1,5 +1,19 @@
+Update
+======
+
+[Let's Encrypt](https://letsencrypt.org) is now available for node: https://github.com/Daplie/letsencrypt-express
+
+It's automatic HTTPS for your node server and it'll work with any of the frameworks (koa, hapi, whatever), not just express.
+
+Also take a look at
+
+* https://daplie.com/articles/lets-encrypt-on-raspberry-pi/
+* https://daplie.com/articles/lets-encrypt-on-digital-ocean-with-caddy/
+* https://daplie.com/articles/lets-encrypt-in-literally-90-seconds/
+* https://caddyserver.com/
+
 HTTPS 2048-bit RSA TLS/SSL Cert Example
-====
+----
 
 This is targeted towards people who are using io.js / node.js,
 but as far as generating and testing certs, these are the exact
