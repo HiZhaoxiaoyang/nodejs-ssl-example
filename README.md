@@ -1,12 +1,14 @@
 Update
 ======
 
-[Let's Encrypt](https://letsencrypt.org) is now available for node: https://github.com/Daplie/letsencrypt-express
+[Let's Encrypt](https://letsencrypt.org) is now available for node: [letsencrypt-express](https://github.com/Daplie/letsencrypt-express)
 
 It's automatic HTTPS for your node server and it'll work with any of the frameworks (koa, hapi, whatever), not just express.
 
 Also take a look at
 
+* [letsencrypt-cli](https://github.com/Daplie/letsencrypt-cli)
+* [letsencrypt (lib)](https://github.com/Daplie/node-letsencrypt)
 * https://daplie.com/articles/lets-encrypt-on-raspberry-pi/
 * https://daplie.com/articles/lets-encrypt-on-digital-ocean-with-caddy/
 * https://daplie.com/articles/lets-encrypt-in-literally-90-seconds/
